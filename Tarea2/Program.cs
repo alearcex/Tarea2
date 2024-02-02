@@ -92,6 +92,7 @@ do
     }
 
     //Se imprime un resumen de los datos ingresados
+    Console.Clear();
     Console.WriteLine("---------------------------------------------");
     Console.WriteLine("----   Sistema de Aumentos Salariales    ----");
     Console.WriteLine("---------------------------------------------");
